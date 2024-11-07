@@ -24,7 +24,7 @@
 <thumbnail>https://i.postimg.cc/NjCgDS31/FILMES.jpg</thumbnail>
 <fanart>https://i.postimg.cc/SKHxp0t4/fanart.jpg</fanart>
 <info></info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/maxplay/master/TakeOne/Filmes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Nenuxes/refs/heads/master/text/filme.txt</externallink>
 </channel>
 
 <channel>
