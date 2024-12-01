@@ -24,6 +24,14 @@
 			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
             "link": "password//tmdb/tv/top_rated"
         },
+
+         {
+            "type": "dir",
+            "title": "[COLOR red]•[/COLOR]testes (Séries)",
+			"thumbnail": "https://ia801200.us.archive.org/12/items/1700740365675/1700740365686.png",
+            "link": "https://raw.githubusercontent.com/Napalm-spec/maxplay/refs/heads/master/TakeOne/Filmes.xml"
+        },
+	    
 		{
             "type": "dir",
             "title": "[COLOR green]•[/COLOR]TMDb Categorias",
