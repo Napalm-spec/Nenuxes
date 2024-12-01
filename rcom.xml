@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "content": "movie",
+      "title": "Jogador N° 1",
+      "imdb_id": "tt1677720",
+      "genre":"Aventura, Ação, Ficção científica",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "link":[
+           "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb(Principal)",
+           "plugin.video.elementum/serach?q=query(pesquisa)"
+             ],
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "X-Men: Dias de um Futuro Esquecido (2014)",
+      "tmdb_id": "movie/127585",
+      "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg",
+      "link": "search",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "John Wick: De Volta ao Jogo (2014)",
+      "tmdb_id": "245891",
+      "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hMsN0ab5kxU8yBBvbWyZoNIUULY.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Onde os Fracos Não Têm Vez",
+      "imdb_id": "tt0477348",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/2sOeM9IJ1s2IN8cjqtT2NCw2nbb.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7ee2b9fe59b670a96c0c95ef9306e8281ae8153",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Corações de Ferro",
+      "imdb_id": "tt2713180",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/tVZXsjBC9HIoKv6WnAv0nWObbrT.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3f320f03fda80b36407944f63157331e1194e5",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Três Anúncios Para um Crime",
+      "imdb_id": "tt5027774",
+      "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a107987662bfe35cb071ab101022689969bca82b",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Questão de Tempo",
+      "imdb_id": "tt2194499",
+      "thumbnail": "https://image.tmdb.org/t/p/original/6poczHIy2YwIEzD02udics93Yzd.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d1d9100e6faeb9be39487a5ed7947678bf9f078",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Efeito Borboleta",
+      "imdb_id": "tt0289879",
+      "thumbnail": "https://media.themoviedb.org/t/p/w500/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df17a63b60d4828b38c2c79565de30724dd363da",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Passageiros",
+      "imdb_id": "tt1355644",
+      "thumbnail": "https://image.tmdb.org/t/p/original/1Y7Uy6PTlWzXZMWdjBkopHMoni9.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bd7157df29a65c2f5f7cca92b95dcb97da793da",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Os 12 Macacos",
+      "imdb_id": "tt0114746",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7df3cd9e819ae7416fb82500755b0aaad83da0e7",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Sully: O Herói do Rio Hudson",
+      "imdb_id": "tt3263904",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18cbc8c28b1424320e4dd2c82f51037e285178d9",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Looper: Assassinos do Futuro",
+      "imdb_id": "tt1276104",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qi3aMCoFbnfpbd0XBLznLUn99xQ.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad26fab7ae30ba14da5bfd20a1cd9eb312202735",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Homem-Aranha: Através do Aranhaverso",
+      "imdb_id": "tt9362722",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "A Caça",
+      "imdb_id": "tt2106476",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/jksxm18n70boh0LSlXibjimGr9g.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb98ee3cf83c156b1827ae1141c2516faf464b47",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "A Lenda do Cavaleiro Verde",
+      "imdb_id": "tt9243804",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ec6527d3874d61be50ffd3e990c07c7a95346b1",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "A.I. Inteligência Artificial",
+      "imdb_id": "tt0212720",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/sQasyc5byDqjCZYXQDK215Jo7RD.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c396f465ff3c488cf6c828499237d796299c23d",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Família do Bagulho",
+      "imdb_id": "tt1723121",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/jzMWI5qM8Jk5AJKw5FJ0uD4JJm8.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2061ba6a28119d0e340914fc30743e1dc8e43747",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "O Show de Truman",
+      "imdb_id": "tt0120382",
+      "thumbnail": "https://image.tmdb.org/t/p/original/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f29d6d251f491c98ae7579fd050760a82bc24915",
+      "type": "item"
+    },
+    {
+      "content": "movie",
+      "title": "Os Irmãos Willoughby",
+      "imdb_id": "tt5206260",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/8DnmmpThvdY1PrOAJoL3rDEI4el.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8896112ca56020f3a93d56a059fe9bac3cd3eb84",
+      "type": "item"
+    },
+	{
+      "content": "movie",
+      "title": "A Bruxa",
+      "imdb_id": "tt4263482",
+      "thumbnail": "https://image.tmdb.org/t/p/w500/qqOtwhj8DxOBIwI0u6ThooXEIBR.jpg",
+      "link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aba091451c34714ebaa82175b2f0b304adf0e05e",
+      "type": "item"
+    }
+  ]
+}
