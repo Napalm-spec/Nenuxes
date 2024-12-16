@@ -17,12 +17,12 @@
         <genre>Animation</genre>
         <info>Anime teste</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <epg>http://7smtapp.link/xmltv.php?username=andrenora1&password=24789356</epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
 		<regex>
 			<name>resolver</name>
 			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
+			<page>http://7smtapp.link/get.php?username=andrenora1&password=24789356&type=m3u_plus</page>
 		</regex>
     </item>	
 	
