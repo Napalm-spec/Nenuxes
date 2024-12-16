@@ -12,18 +12,14 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]</link>
+        <link>http://7smtapp.link/get.php?username=andrenora1&password=24789356&type=m3u_plus</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
         <epg>http://7smtapp.link/xmltv.php?username=andrenora1&password=24789356</epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
-		<regex>
-			<name>resolver</name>
-			<expres>"stream":.+?"(.*?)"</expres>
-			<page>http://7smtapp.link/get.php?username=andrenora1&password=24789356&type=m3u_plus</page>
-		</regex>
+
     </item>	
 	
 </items>
