@@ -1,5 +1,32 @@
 {
 	"items": [
+                  {
+        "tmdb_id": 939243,
+        "title": "Sonic 3: O Filme",
+        "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aeecdea6debe2f7ffa20c904769d4ef0059cbfe7",
+        "year": 2024,
+        "genres": "Ação, Ficção científica, Comédia, Família",
+        "actors": [
+            {
+                "name": "Jim Carrey",
+                "photo": "https://image.tmdb.org/t/p/w185/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+            },
+            {
+                "name": "Ben Schwartz",
+                "photo": "https://image.tmdb.org/t/p/w185/lJVYjPj0P6uvVxNrTy4xO2645D0.jpg"
+            },
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Colleen O'Shaughnessey",
+                "photo": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+            }
 		{
 			"content": "movie",
 			"title": "Círculo de Fogo [4K]",
