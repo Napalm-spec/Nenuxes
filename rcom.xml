@@ -2,12 +2,12 @@
 	"items": [
 		{
 			"content": "movie",
-			"title": "Duna: Parte Dois [4K]",
+			"title": "Duna: Parte Dois o [4K]",
 			"imdb_id": "tt15239678",
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
 			"genre": "Ficção científica, Aventura",
-			"link": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5727adf32ce141fa0be300a90d1a96eb79b2630f",
+			"link": "magnet:?xt=urn:btih:JKAQ6RYYEJX6IYFKKEGEQBVWPDV2ODOR&dn",
 			"type": "item"
 		},
 		{
