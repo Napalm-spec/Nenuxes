@@ -2,7 +2,7 @@
 	"items": [
 		{
 			"content": "movie",
-			"title": "Duna: Parte Dois o [4K]",
+			"title": "Duna: Parte Dois [4K]",
 			"imdb_id": "15239678",
 			"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg",
 			"fanart": "https://image.tmdb.org/t/p/original/87IVlclAfWL6mdicU1DDuxdwXwe.jpg",
@@ -33,7 +33,7 @@
 		{
 			"content": "movie",
 			"title": "Um Lugar Silencioso: Dia Um [4K]",
-                        "imdb_id": "tt13433802",
+                        "imdb_id": "13433802",
 			"genre": "Suspense",
 			"thumbnail": "https://en.yts-official.mx/movies/poster/a-quiet-place-day-one-2024.jpg",
 			"link": [
