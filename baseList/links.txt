@@ -1,12 +1,12 @@
-#name Adler PORTUGAL 1
-http://multiprotuga.xyz/get.php?username=jorge.macedo&password=macedo2022&type=m3u_plus
-#name Adler PORTUGAL 2
-http://tugalivepro.xyz:80/get.php?username=GRINGO12&password=KiraKali&type=m3u_plus&type=m3u8
-#name Adler PORTUGAL 3
-http://tondlock.fun/get.php?username=Cartuxa&password=jqd1kUJ&type=m3u_plus&output=mpegts&type=m3u8
-#name Adler PORTUGAL 4
-http://skiload.vip:8080/get.php?username=caroskarajy&password=dmgsZQS&type=m3u_plus&output=mpegts&type=m3u8
-#name Adler PORTUGAL 5
-http://cl.fbmssrls6.xyz:8080/get.php?username=eEtZ6i6cmM&password=U5QLnDc3yR&type=m3u_plus&output=mpegts&type=m3u8
+#name Adler BRASILL 1
+http://forgoldenera.top/get.php?username=81881531&password=S853C1837q&type=m3u_plus
+#name Adler BRASIL 2
+http://fgoflito.com/get.php?username=348255796&password=E624q4002T&type=m3u_plus
+#name Adler BRASIL 3
+http://fgoflito.com/get.php?username=474960094&password=q126v4544N&type=m3u_plus
+#name Adler BRASIL 4
+http://fgoflito.com/get.php?username=362863658&password=j166m5517N&type=m3u_plus
+#name Adler BRASIL 5
+http://fgoflito.com/get.php?username=155944124&password=3837113&type=m3u_plus
 #name Adler BRASIL 6
-http://sptv.cloud:2082/ge.php?username=lane006677&password=82999006677&type=m3u_plus&output=m3u8
+http://fgoflito.com/get.php?username=11974944395&password=s719r8697G&type=m3u_plus
