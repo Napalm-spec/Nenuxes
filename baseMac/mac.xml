@@ -1,20 +1,23 @@
-#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Vod 1 [/COLOR]
+#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Servidor 1 [/COLOR]
 #url http://biturbos.xyz:8080
 #mac 00:1A:79:D0:F9:F0
    	 	
-#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Vod 2 [/COLOR]
+#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Servidor 2 [/COLOR]
 #url http://biturbos.xyz:8080
 #mac 00:1A:79:C8:31:9E
 
-#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Vod 3 [/COLOR]
+#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Servidor 3 [/COLOR]
 #url http://admin.macacoataca.shop:8080
 #mac 00:1A:79:c4:8a:75
 
-#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Vod 4 [/COLOR]
-#url http://m792yd2.com:8080
-#mac 00:1A:79:B8:74:48
+#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Servidor 4 [/COLOR]
+#url http://1234up.com:8080
+#mac 00:1A:79:11:CE:E0
 
-#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Vod 5 [/COLOR]
-#url http://163.172.85.75:8080
-#mac 00:1A:79:35:9E:C0
+#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Servidor 5 [/COLOR]
+#url http://new25.xyz:8080
+#mac 00:1A:79:AC:CA:60
 
+#name [COLOR gold]Eagle[/COLOR] [COLOR cyan]Servidor 6 [/COLOR]
+#url http://main.mydnsvip.live:8080
+#mac 00:1A:79:bf:98:cf
