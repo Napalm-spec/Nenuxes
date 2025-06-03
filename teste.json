@@ -1,7 +1,7 @@
 [
   {
     "titulo": "Filme 1",
-    "magnet": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60EFD89BBD0E571923760A6DE086E4BC12B34113&"
+    "magnet": "plugin://plugin.video.resolverurl_player?url=https://mixdrop.sb/e/8lovmv6da6m8v70"
   },
   {
     "titulo": "Filme 2",
