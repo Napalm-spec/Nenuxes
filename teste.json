@@ -1,7 +1,7 @@
 [
   {
     "titulo": "Filme 1",
-    "magnet": "magnet:?xt=urn:btih:60EFD89BBD0E571923760A6DE086E4BC12B34113&"
+    "magnet": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60EFD89BBD0E571923760A6DE086E4BC12B34113&"
   },
   {
     "titulo": "Filme 2",
