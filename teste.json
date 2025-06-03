@@ -1,0 +1,10 @@
+[
+  {
+    "titulo": "Filme 1",
+    "magnet": "magnet:?xt=urn:btih:EXEMPLO1"
+  },
+  {
+    "titulo": "Filme 2",
+    "magnet": "magnet:?xt=urn:btih:EXEMPLO2"
+  }
+]
